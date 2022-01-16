@@ -13,7 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "heaven-ui": "^1.0.1",
-    "less": "^4.1.2",
-    "less-loader": "^10.2.0"
+    "vuepress": "^1.9.5"
   }
 }
